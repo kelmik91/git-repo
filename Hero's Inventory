@@ -10,6 +10,7 @@ int main()
 	inventory[numItems++] = "sword";
 	inventory[numItems++] = "armor";
 	inventory[numItems++] = "shield";
+	
 	cout << "Your items:\n";
 	for (int i = 0; i < numItems; ++i)
 	{
